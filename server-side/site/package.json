@@ -5,15 +5,25 @@
   "private": true,
   "dependencies": {
     "archiver": "~0.4.6",
-    "async": "^2.1.4",
     "cors": "^2.7.1",
-    "emailjs": "^1.0.8",
     "express": "3.x",
-    "jade": "^1.11.0",
-    "json5": "^0.5.1",
     "marked": "0.3.9",
-    "mongodb": "^2.2.22",
-    "underscore": "^1.8.3",
-    "validator": "^6.2.1"
+    "jade": "^1.9.2",
+    "json5": "^0.4.0",
+    "mongodb": "*",
+    "emailjs":"*",
+    "validator":"*",
+    "bson":"*",
+    "mongoose":"*",
+    "underscore": "^1.7.0",
+    "async": "*",
+    "escodegen": "^1.4.1",
+    "esprima": "^1.2.2",
+    "multer": "^0.1.8",
+    "redis": "^0.12.1",
+    "istanbul": "^0.3.2",
+    "http-proxy": "^1.9.0",
+    "xmlhttprequest": "*",
+    "request": "^2.54.0"
   }
 }
